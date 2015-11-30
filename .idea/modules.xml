@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apps/Apps.iml" filepath="$PROJECT_DIR$/Apps/Apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BladeManager/BladeManager.iml" filepath="$PROJECT_DIR$/BladeManager/BladeManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Blades/Blades.iml" filepath="$PROJECT_DIR$/Blades/Blades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/BladesRecorderTester/BladesRecorderTester.iml" filepath="$PROJECT_DIR$/Apps/BladesRecorderTester/BladesRecorderTester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Apps/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DexLoader/DexLoader.iml" filepath="$PROJECT_DIR$/DexLoader/DexLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Instrumentation/Instrumentation.iml" filepath="$PROJECT_DIR$/Instrumentation/Instrumentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/SimpleApp/SimpleApp.iml" filepath="$PROJECT_DIR$/Apps/SimpleApp/SimpleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Socialify-App/Socialify-App.iml" filepath="$PROJECT_DIR$/Apps/Socialify-App/Socialify-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apps/Socialify-App/facebook/facebook.iml" filepath="$PROJECT_DIR$/Apps/Socialify-App/facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace.iml" filepath="$PROJECT_DIR$/workspace.iml" />
+    </modules>
+  </component>
+</project>
